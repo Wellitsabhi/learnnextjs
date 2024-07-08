@@ -1,3 +1,5 @@
+[```Notes```](../README.md)
+
 > # Routing MetaData
 >
 > - Ensuring proper search engine optimization (SEO) is crucial for increasing
@@ -33,3 +35,5 @@ but page metadata will replace layout metadata if they have the same properties
 > - absolute - completely override the title in the template.
 > 
 >   ![alt text](image-2.png)
+
+[```Next - Navigation```](./Navigation.md)

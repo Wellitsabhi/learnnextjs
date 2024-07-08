@@ -1,3 +1,5 @@
+[```Notes```](../README.md)
+
 > # Template
 >
 > - Template are similar to layouts, in that they wrap each child layout or page.
@@ -9,3 +11,6 @@
 >   template.js or template.tsx file
 > - Similar to layouts, templates also should accept a children prop which will render
 the nested segments in the route.
+
+[```Next - Loading```](./Loading.md)
+

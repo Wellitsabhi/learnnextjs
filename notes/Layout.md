@@ -1,3 +1,5 @@
+[```Notes```](../README.md)
+
 > # Layout
 > - A page is a UI that is unique to a route.
 > - A layout is UI that us shared between multiple pages in the app.
@@ -18,3 +20,5 @@
 >
 >    ![alt text](image.png)
 > - layout applied only on login and register routes.
+
+[```Next - Routing```](./Routing.md)

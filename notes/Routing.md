@@ -1,3 +1,5 @@
+[```Notes```](../README.md)
+
 > # Routing Conventions
 > - All routes must be placed inside the ```app``` folder.
 > - Every file that corresponds to a route must be named ```page.js``` or ```page.tsx```.
@@ -27,5 +29,7 @@
 > - This won't affect url it stays same, like  ```url/login``` 
 >  
 >   ![Route group file structure](Screenshot_20240702_171752.png)
+
+[```Next- Metadata```](./Metadata.md)
 
 

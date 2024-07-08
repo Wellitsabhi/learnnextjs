@@ -1,3 +1,5 @@
+[```Notes```](../README.md)
+
 # Loading UI
 > - This file allows us to create loading states that are displayed to users while
 specific route segment's content is loading
