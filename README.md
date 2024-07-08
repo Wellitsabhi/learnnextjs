@@ -1,24 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Notes for Nextjs
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. [Files](./notes/Files.md)
+2. [Layout](./notes/Layout.md)
+3. [Routing](./notes/Routing.md)
+4. [Metadata](./notes/Metadata.md)
+5. [Navigation](./notes/Navigation.md)
+6. [Template](./notes/Template.md)
+7. [Loading](./notes/Loading.md)
 
 ## Learn More
 
