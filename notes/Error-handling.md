@@ -17,13 +17,21 @@ functional
 > - Whenver error occurs in that folder , this file will show up
 >
 >   ![alt text](image-4.png)
+>
 >   ![alt text](image-5.png)
 >
 > -  Or we can also do
 >   
 >   ![alt text](image-7.png)
+>
 >   ![alt text](image-8.png)
+>
 >   ![alt text](image-9.png)
+>
+>
+> -  To recover from error, Remember to use ```use client``` on main page
+>
+>    ![alt text](image-11.png)
 >
 >
 
