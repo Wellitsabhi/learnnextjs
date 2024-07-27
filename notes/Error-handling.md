@@ -41,3 +41,4 @@ functional
 >
 > - An ```error.tsx``` file will handle errors for all its nested child segments.
 > - error boundary does not catch errors thrown here bcoz its nested inside layouts comp. (refer to hierarchy image)
+> -  e just need to move ```error/tsx``` file highe/outside (hierachicaly) , to deal with it.
