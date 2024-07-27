@@ -55,7 +55,7 @@
 > ## Unmatched Routes
 >
 >  ### Navigation from UI
-> - In the case of navigation within the IJI, Next.js retains the previously active state of
+> - In the case of navigation within the UI, Next.js retains the previously active state of
 a slot regardless of changes in the URL.
 > ### Page Reload
 > - Next.js immediately searches for a `default.tsx` file within each unmatched slot.
@@ -68,6 +68,14 @@ Next.js will render a 404 error.
 > framework cannot retrieve a slot's active state from the current URL.
 > - You have complete freedom to define the IJI for unmatched routes: you can either
 > mirror the content found in page.tsx or craft an entirely custom view
+
+> ## Conditional Routes
+>
+> - In case, if certain conditions are met then only render the page, otherwise the the default route. ex- login page
+> -  In below example , if `isLoggedIn = false`, it ill render the `login` slot.
+>
+>    ![alt text](image-15.png)
+
 
 
 [```Next- Metadata```](./Metadata.md)
