@@ -17,3 +17,4 @@ route segments are loading
 > 3. Users can continue interacting with certain parts of the application, such as a
 navigation menu or sidebar, even if the main content is still being fetched
 
+[```Error Handling```](./Error-handling.md)

@@ -7,7 +7,10 @@ adjust granularity
 > - Isolate errors to affected segments while keeping the rest of the application
 functional
 > - Add functionality to attempt to recover from an error without a full page reload
-
+>
+## Component Hierarchy for all special files
+>
+>   ![alt text](image-10.png)
 
 ## How to use
 >
@@ -34,7 +37,7 @@ functional
 >    ![alt text](image-11.png)
 >
 >
-
-## Component Hierarchy for all special files
+>## Handling error in Layout
 >
->   ![alt text](image-10.png)
+> - An ```error.tsx``` file will handle errors for all its nested child segments.
+> - error boundary does not catch errors thrown here bcoz its nested inside layouts comp. (refer to hierarchy image)
