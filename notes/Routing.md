@@ -25,10 +25,33 @@
 > ## Route group
 >  -  Group the similar routes , for better developer experience.
 >  -  Just make folder with parenthesis, and put the routes in it.
->     -  ex- ```(auth)``` folder will contains route of login,register,forget-password.
-> - This won't affect url it stays same, like  ```url/login``` 
->  
->   ![Route group file structure](Screenshot_20240702_171752.png)
+>  -  ex- ```(auth)``` folder will contains route of login,register,forget-password.
+>  - This won't affect url it stays same, like  ```url/login```.
+>
+>    ![Route group file structure](image-13.png)
+>
+
+
+
+> ## ***Advance Routing***
+>
+> ### Parallel Routes
+> - Parallel routes are an advanced routing mechanism that allows for the simultaneous rendering of multiple pages withiin the same layout.
+> ### How to define
+> - Parallel roures in Nextjs are defined using feature known as  ***slots***.
+> - Slots help structure our content in modular fashion.
+> - To define a slot, we use the '@folder' naming convention.
+> - Each slot is then passed as a prop to its corresponding 'layout.tsx' file. 
+> - slots are not part of url.
+>
+> ## Benefits
+> 1. #### Independent route handling
+>  ![alt text](image-12.png)
+>
+> 2. #### Sub navigation
+>   ![alt text](image-14.png)
+> 
+
 
 [```Next- Metadata```](./Metadata.md)
 
