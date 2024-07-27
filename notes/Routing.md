@@ -76,6 +76,34 @@ Next.js will render a 404 error.
 >
 >    ![alt text](image-15.png)
 
+> ## Intercepting Routes
+>
+> - Intercepting routes allow you to intercept or stop the default routing behaviour to
+> present an alternate view or component when navigating through the UI, while still
+> preserving the intended route for scenarios like page reloads.
+> - This can be useful if you want to show a route while keeping the context of the
+> current page.
+>
+>   ![alt text](image-16.png)
+>
+>   ![alt text](image-17.png)
+>
+> - To make a intercetping route, create a folder name as `(.)folder`, here instead of folder write the route name,
+> - this will create a intercepted route, which on reload, will take you to the main original route.
+>
+> - `(.)` to match segments on the same level. 
+> - `(..)` to match segments on one level above level. 
+> - `(..)(..)` to match segments on two level above level. 
+> - `(...)` to match segments from root app directory. 
+>
+> - In below (first) image, `f1` folder route to `f2` , but before that it will go to intercepted route (arrowed), though the url gets updated.
+>  
+>   ![alt text](image-19.png)
+>
+> -  In second image , `f4` routes to `f3`  (one level above) , but gets intercepted (..) first
+>
+>    ![alt text](image-20.png)
+
 
 
 [```Next- Metadata```](./Metadata.md)
