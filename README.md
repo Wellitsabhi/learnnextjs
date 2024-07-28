@@ -1,13 +1,13 @@
 # Notes for Nextjs
 
-1. [Files](./notes/Files.md)
-2. [Layout](./notes/Layout.md)
-3. [Routing](./notes/Routing.md)
-4. [Metadata](./notes/Metadata.md)
-5. [Navigation](./notes/Navigation.md)
-6. [Template](./notes/Template.md)
-7. [Loading](./notes/Loading.md)
-7. [Error Handling](./notes/Error-handling.md)
+1. [Files](../learnnextjs/Frontend/notes/Files.md)
+2. [Layout](../learnnextjs/Frontend/notes/Layout.md)
+3. [Routing](../learnnextjs/Frontend/notes/Routing.md)
+4. [Metadata](../learnnextjs/Frontend/notes/Metadata.md)
+5. [Navigation](../learnnextjs/Frontend/notes/Navigation.md)
+6. [Template](../learnnextjs/Frontend/notes/Template.md)
+7. [Loading](../learnnextjs/Frontend/notes/Loading.md)
+7. [Error Handling](../learnnextjs/Frontend/notes/Error-handling.md)
 
 ## Learn More
 
