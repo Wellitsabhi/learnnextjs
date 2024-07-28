@@ -26,3 +26,5 @@
 > -  learn about- ```back() forward() replace()``` 
 >
 >      ![alt text](image-3.png)
+
+[```Next - Routing```](./Routing.md)
