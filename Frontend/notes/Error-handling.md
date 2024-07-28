@@ -1,3 +1,6 @@
+[```Notes```](../../README.md)
+
+
 #  Error Handling
 >
 > - Automatically wrap a route segment and its nested children in a React Error

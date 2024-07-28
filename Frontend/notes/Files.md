@@ -1,4 +1,4 @@
-[```Notes```](../README.md)
+[```Notes```](../../README.md)
 
 > # File Colocation
 > - A route is not publicly accessible unless it has ```page.tsx``` file.

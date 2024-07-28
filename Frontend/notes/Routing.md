@@ -1,4 +1,4 @@
-[```Notes```](../README.md)
+[```Notes```](../../README.md)
 
 > # Routing Conventions
 > - All routes must be placed inside the ```app``` folder.

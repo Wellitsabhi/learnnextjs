@@ -1,4 +1,4 @@
-[```Notes```](../README.md)
+[```Notes```](../../README.md)
 
 > # Layout
 > - A page is a UI that is unique to a route.
