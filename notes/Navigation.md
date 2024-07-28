@@ -27,4 +27,4 @@
 >
 >      ![alt text](image-3.png)
 
-[```Next - Routing```](./Routing.md)
+[```Next - Template```](./Template.md)
