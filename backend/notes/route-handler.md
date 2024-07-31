@@ -27,5 +27,13 @@
 >
 >   ![alt text](image-2.png) 
 
+> ## GET Request
+>
+>   ![alt text](Screenshot_20240731_120246.png)
+
+> ## POST Request
+>
+>   ![alt text](Screenshot_20240731_121314.png)
+>   ![alt text](Screenshot_20240731_121251.png)
 
 [```Next - Route Handler```](./Route-handler.md)
