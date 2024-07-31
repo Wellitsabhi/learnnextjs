@@ -36,4 +36,15 @@
 >   ![alt text](Screenshot_20240731_121314.png)
 >   ![alt text](Screenshot_20240731_121251.png)
 
+> ## Dynamic route handler
+>
+>    ![alt text](Screenshot_20240731_130750.png) 
+>    ![alt text](Screenshot_20240731_130709.png)
+
+> ## PATCH Request
+>
+>   ![alt text](Screenshot_20240731_132113.png) 
+
+
+
 [```Next - Route Handler```](./Route-handler.md)
