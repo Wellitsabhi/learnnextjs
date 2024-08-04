@@ -49,6 +49,11 @@
 >
 >   ![alt text](image-3.png)
 
+> ## URLQuery parameters
+>
+>   ![alt text](image-4.png)
+>   ![alt text](image-5.png)
+
 
 
 [```Next - Route Handler```](./Route-handler.md)
