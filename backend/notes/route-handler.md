@@ -45,6 +45,10 @@
 >
 >   ![alt text](Screenshot_20240731_132113.png) 
 
+> ## DELETE Request
+>
+>   ![alt text](image-3.png)
+
 
 
 [```Next - Route Handler```](./Route-handler.md)
