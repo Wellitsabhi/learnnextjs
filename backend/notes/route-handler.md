@@ -103,5 +103,19 @@ requests
 > - 1. Session management like logins and shopping carts
 > - 2. Personalization like user preferences and themes
 > - 3. Tracking like recording and analyzing user behavior.
+>
+> ### How to use
+>
+> - One way of using it -
+>
+>   ![alt text](image-10.png) 
+>   
+>   ![alt text](image-11.png)
+>
+> - Or we can do this -
+>
+>   ![alt text](image-12.png)
+>
+>   ![alt text](image-13.png)
 
 [`Next - Route Handler`](./Route-handler.md)
