@@ -118,4 +118,21 @@ requests
 >
 >   ![alt text](image-13.png)
 
-[`Next - Route Handler`](./Route-handler.md)
+> # Caching in route handler
+>
+> - Route Handlers are cached by default when using the GET method with the
+>   Response object in Next.js
+>
+> ## Avoid caching
+> - How to opt out of caching?
+> - 1. dynamic mode in Segment Config Option
+> - 2. using the Request object with the GET method
+> - 3. employing dynamic functions like headers() and cookies()
+> - 4. using any HTTP method other than GET
+> - In below example, we want to avoid caching, to get updated time, so we write the first line.
+> - Otherwise, it would give same time, on reload. We can check it on build mode ( works fine in development mode).
+>
+>   ![alt text](image-14.png)
+
+
+[`Next - MiddlewareRoute Handler`](./middleware.md)
