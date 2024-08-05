@@ -8,6 +8,8 @@
 6. [Template](./Frontend/notes/Template.md)
 7. [Loading](./Frontend/notes/Loading.md)
 7. [Error Handling](./Frontend/notes/Error-handling.md)
+7. [Route Handler](./backend/notes/route-handler.md)
+7. [Middleware](./backend/notes/middleware.md)
 
 
 ## Learn More

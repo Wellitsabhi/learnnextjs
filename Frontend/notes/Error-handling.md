@@ -46,4 +46,4 @@ functional
 > - error boundary does not catch errors thrown here bcoz its nested inside layouts comp. (refer to hierarchy image)
 > - we just need to move ```error/tsx``` file highe/outside (hierachicaly) , to deal with it.
 
-[```Next - Route Handler```](./Route-handler.md)
+[```Next - Route Handler```](../../backend/notes/route-handler.md)

@@ -33,4 +33,4 @@
 >
 >   ![alt text](image-18.png)
 
-[`Next - Rendering`](./middleware.md)
+[`Next - Rendering `](./rendering.md)
